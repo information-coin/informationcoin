@@ -19,7 +19,7 @@ Starting from Year-6: 1% annual interest for maintnance.
 - 50 minted block confirmations
 - PoS block generation after 1 day of holding
 
-Zero Premine.
+100% Premine.
 
 Ports:
 connection:	20801
