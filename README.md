@@ -1,15 +1,15 @@
 
 InformationCoin - ITC
 
-InformationCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 1 billion coins, no PoW mining will get any coins. The 1 billion coins will be distributed equally to 1000 individuals with 1 million coins each, completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
+InformationCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 7 million coins, no PoW mining will get any coins. The 7 millions coins will be distributed equally to 700 shares with 100k coins each, completely free based on the subscriptions in facebook. 
 
-Equal distribution to the WHOLE community. Each person gets 1 mil coins, including each person in the dev team. Dev team gets absolutely no more than anyone else! It is the community coin! While the dev team will maintain and enhance the code and fix any issues, it is the community which will promote and market the coin.  
+Equal distribution to the WHOLE community. Each person gets the shares depend o their levels. Dev team gets absolutely no more than anyone else!.  
 
 InformationCoin also adopts a variable PoS rate with the following annual interest rate:
-Year-1: 30%
-Year-2: 20%
-Year-3: 10%
-Year-4: 5%
+Year-1: 10%
+Year-2: 8%
+Year-3: 6%
+Year-4: 4%
 Year-5: 2%
 Starting from Year-6: 1% annual interest for maintnance. 
 
